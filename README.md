@@ -29,7 +29,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaidSuhail&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
- ![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=SaidSuhail&theme=tokyonight)
 </p>
 
 
