@@ -36,11 +36,6 @@
 </p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidSuhail&theme=tokyonight" width="48%" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaidSuhail&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📫 Connect With Me
