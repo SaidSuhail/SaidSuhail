@@ -32,9 +32,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaidSuhail&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-</p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidSuhail&theme=tokyonight" width="48%" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaidSuhail&show_icons=true&theme=tokyonight" width="100%" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidSuhail&theme=tokyonight" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 ---
 
