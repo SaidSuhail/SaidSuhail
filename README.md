@@ -6,7 +6,7 @@
 
 🚀 About Me
 💻 I'm a self-taught developer passionate about building awesome web applications.  
-🎯 Currently diving deep into **C#** and exploring **.NET** for backend development.  
+🎯 Currently diving deep into **C#** and exploring **.NET** for backend development
 🌱 Always learning and experimenting with new technologies.  
 📫 Reach me at: [suhailsaid689@gmail.com](mailto:suhailsaid689@gmail.com)
 
