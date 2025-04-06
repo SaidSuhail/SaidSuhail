@@ -35,7 +35,6 @@
 
 ### **Database**
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,6 +42,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -50,9 +50,20 @@
   <a href="https://github.com/SaidSuhail">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaidSuhail&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidSuhail&layout=compact&langs_count=8&theme=radical"/>
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SaidSuhail&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
 
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SaidSuhail?theme=white&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -70,7 +81,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaidSuhail&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
