@@ -59,7 +59,13 @@
   </a>
 </div>
 
+  <br/>
+  <a href="https://github.com/SaidSuhail">
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaidSuhail&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline">
+  </a>
+
 ---
+
 
 ## 🧠 LeetCode Stats
 
