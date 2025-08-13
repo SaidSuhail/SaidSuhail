@@ -67,7 +67,7 @@
 ---
 
 
-## 🧠 LeetCode Stats
+##🧠 LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/SaidSuhail?theme=white&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
