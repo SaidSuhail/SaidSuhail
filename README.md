@@ -46,32 +46,58 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
-
-## 📊 GitHub  Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/SaidSuhail">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaidSuhail&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidSuhail&layout=compact&langs_count=8&theme=radical"/>
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SaidSuhail&theme=radical&hide_border=false" alt="GitHub Streak" />
-    
-  </a>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=SaidSuhail&theme=radical&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=SaidSuhail&theme=radical&hide_border=false" />
+  </picture>
 </div>
 
-  <br/>
-  <a href="https://github.com/SaidSuhail">
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaidSuhail&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Timeline">
-  </a>
+## 📈 Contribution Activity Graph
 
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaidSuhail&theme=react-dark&hide_border=false&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&title_color=58a6ff&custom_title=Contribution%20Timeline"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaidSuhail&theme=react-dark&hide_border=false&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&title_color=58a6ff&custom_title=Contribution%20Timeline" />
+  </picture>
+</div>
 ---
 
 
-##🧠 LeetCode Stats
+<h2 align="center">🧠 LeetCode Statistics</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/SaidSuhail?theme=white&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+  
+<a href="https://leetcode.com/SaidSuhail" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/SaidSuhail?theme=nord&font=Ubuntu&ext=contest&border=0&radius=15" alt="LeetCode Stats" width="600"/>
+</a>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-🎯-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-🔥-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-⚡-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/SaidSuhail">
+    <img src="https://img.shields.io/badge/-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
+
 </div>
+
+---
 
 ---
 
